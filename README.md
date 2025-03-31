@@ -49,18 +49,6 @@ Metrics:
 
 ---
 
-## 📊 Results Summary
-
-| Model       | Train Acc | Test Acc | Train Loss | Test Loss |
-|-------------|-----------|----------|------------|-----------|
-| FFN         | xx%       | xx%      | xx.x       | xx.x      |
-| RNN         | xx%       | xx%      | xx.x       | xx.x      |
-| LSTM        | xx%       | xx%      | xx.x       | xx.x      |
-
-> Replace "xx" with actual results after training
-
----
-
 ## 📈 Visuals
 - Bar chart comparison of accuracy & loss
 - Confusion matrix heatmaps for each model
