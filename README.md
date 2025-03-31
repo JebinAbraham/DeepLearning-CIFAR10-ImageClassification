@@ -73,8 +73,4 @@ Run the full notebook in [Google Colab](https://colab.research.google.com/) for 
 
 ---
 
-## 🧪 Authors
-Built as part of a research assignment on comparing model architectures on CIFAR-10.
-
-Feel free to fork and adapt this template for your own projects!
 
