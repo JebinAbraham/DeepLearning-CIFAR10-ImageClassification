@@ -5,7 +5,6 @@ This project explores and compares the performance of different neural network a
 - Feedforward Neural Network (FFN)
 - Recurrent Neural Network (RNN)
 - Long Short-Term Memory (LSTM)
-- Vision Transformer (ViT)
 
 ---
 
@@ -33,11 +32,6 @@ Images are resized to 224x224 for compatibility with the Vision Transformer.
 - Same as RNN, but uses LSTM instead
 - Better captures long-term dependencies
 
-### 4. Vision Transformer (ViT)
-- Predefined `vit_b_16` architecture from torchvision
-- Replaces classification head with a 10-class output
-- Input resized to 224x224
-
 ---
 
 ## ⚙️ Training & Evaluation
@@ -62,7 +56,6 @@ Metrics:
 | FFN         | xx%       | xx%      | xx.x       | xx.x      |
 | RNN         | xx%       | xx%      | xx.x       | xx.x      |
 | LSTM        | xx%       | xx%      | xx.x       | xx.x      |
-| Transformer | xx%       | xx%      | xx.x       | xx.x      |
 
 > Replace "xx" with actual results after training
 
